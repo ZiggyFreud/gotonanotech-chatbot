@@ -7,6 +7,12 @@ requests==2.32.5
 beautifulsoup4==4.14.3
 lxml==6.0.2
 
+<<<<<<< HEAD
 chromadb==0.4.24
 voyageai==0.2.4
 openai
+=======
+chromadb==1.5.1
+voyageai==0.2.4
+openai
+>>>>>>> bf78fa8 (Initial RAG chatbot setup)
