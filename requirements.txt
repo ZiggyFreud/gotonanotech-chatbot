@@ -7,6 +7,6 @@ requests==2.32.5
 beautifulsoup4==4.14.3
 lxml==6.0.2
 
-chromadb==1.5.1
+chromadb==0.4.24
 voyageai==0.2.4
 openai
